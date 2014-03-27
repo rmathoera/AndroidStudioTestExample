@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First Android APP</string>
+    <string name="dummy_button">Knop</string>
+    <string name="dummy_content">Hier komt de tekst te staan \n volgende regel</string>
+
+</resources>
